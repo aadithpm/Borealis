@@ -6,6 +6,9 @@ Direct link: `<link rel="stylesheet" href="https://github.com/penetratingshot/bo
 Use Bower: Coming Soon
 Use CDNJS: Coming Soon
 
+## Install
+npm install -g bower
+
 ## Changelog
 Coming Soon
 
