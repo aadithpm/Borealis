@@ -7,7 +7,7 @@ Use Bower: Coming Soon
 Use CDNJS: Coming Soon
 
 ## Install
-npm install -g bower
+ `npm install -g bower`
 
 ## Changelog
 Coming Soon
