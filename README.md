@@ -2,8 +2,9 @@
 A minimal CSS framework
 
 ## Getting Started
-Use CDN: `<link rel="stylesheet" href="https://github.com/penetratingshot/borealis/distrib/borealis.min.css">`
+Direct link: `<link rel="stylesheet" href="https://github.com/penetratingshot/borealis/distrib/borealis.min.css">`
 Use Bower: Coming Soon
+Use CDNJS: Coming Soon
 
 ## Changelog
 Coming Soon
