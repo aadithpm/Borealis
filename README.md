@@ -2,7 +2,7 @@
 A minimal CSS framework
 
 ## Getting Started
-Copy and Paste Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.min.css">`
+Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.min.css">`
 Use Bower: Coming Soon
 Use CDNJS: Coming Soon
 
