@@ -8,3 +8,5 @@ Use CDNJS: Coming Soon
 
 ## Changelog
 Coming Soon
+
+## Made With ❤️ By Talon and Shreyas!
