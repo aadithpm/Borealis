@@ -7,4 +7,4 @@ Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Bo
 ## Changelog
 Coming Soon
 
-## Made With ❤️ By Talon and Shreyas!
+Made With ❤️ By Talon and Shreyas!
