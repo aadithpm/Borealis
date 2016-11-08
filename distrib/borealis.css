@@ -1,3 +1,32 @@
 /*Borealis created by Shreyas Lad and Talon Bragg. Distributed under the MIT Liscense. Pls cite us at your footer,
 it helps spread the word :) The MIT license states that if anybody is to distribute this as their own, there will be consiquences.*/
 
+/*Button Types*/
+.button fill black{
+  color: black;
+}
+.button border black{
+  background-color: black;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px 32 px;
+  display: inline-block;
+  font-size: 16;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-family: Comic Sans MS;
+}
+.button border tansform{
+  
+}
+.button border transform{
+  
+}
+.button border transform black{
+  
+}
+.button border transform black{
+  
+}
