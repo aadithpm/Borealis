@@ -9,6 +9,6 @@ Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Bo
 https://material.io/icons/
 
 ## Changelog
-Coming Soon
+11/8/16: Added custom domain
 
 Made With ❤️ By Talon and Shreyas!
