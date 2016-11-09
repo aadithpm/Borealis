@@ -36,27 +36,3 @@
     left: 0;
     margin: 0;
 }
-body{
- background-image: url("http://wallpapercave.com/wp/t1ZMnHR.jpg");
-}
-.content{
-  padding-top: 200px;
-    padding-bottom: 280px;
-    top: 0px;
-    left: 0px;
-    margin: 0px;
-    font-family:'Josefin Sans', sans-serif;
-    background-image: url("http://cdn.wallpapersafari.com/52/88/yH4WV9.jpg");
-      position: center;
-    color: white; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;') no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-
