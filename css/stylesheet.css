@@ -10,7 +10,8 @@
     margin: 4px 2px;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    cursor: pointer; 
+    cursor: pointer;
+    border-radius: 30px;
 }
 .transform black{
  background-color: white;
