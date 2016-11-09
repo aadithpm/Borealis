@@ -13,4 +13,4 @@ JSDelivr: Coming Soon
 ## Changelog
 11/8/16: Added custom domain
 
-Made With ❤️ By Talon and Shreyas!
+Made With ❤️ By Talon, Sid, and Shreyas!
