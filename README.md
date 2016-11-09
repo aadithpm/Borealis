@@ -1,6 +1,8 @@
 # ✍️Borealis
 A minimal CSS framework
 
+![alt text](https://github.com/PenetratingShot/Borealis/blob/master/Borealis.png "Borealis")
+
 ## Getting Started
 Direct Link (Full): `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.css">`
 
