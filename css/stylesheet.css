@@ -21,7 +21,8 @@
 .hero{
  font-family: 'Josefin Sans', sans-serif;
     position: center;
-    color: white; 
+    color: white;
+    background: url('http://wallpapercave.com/wp/t1ZMnHR.jpg') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -32,9 +33,6 @@
     background-size: cover;
     padding-top: 200px;
     padding-bottom: 280px;
-    top: 0;
-    left: 0;
-    margin: 0;
 }
 .content{
  font-family: Quicksand;
