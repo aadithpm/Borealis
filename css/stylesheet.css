@@ -16,7 +16,7 @@
 .primary {
     background-color: white;
     color: black;
-    border: 2px solid #555555;
+    border: 2px solid white;
 }
 
 .primary:hover {
@@ -29,10 +29,10 @@
     border: 2px solid #555555; 
 }
 .hero{
- font-family: 'Josefin Sans', sans-serif;
+ font-family: 'Quicksand', sans-serif;
     position: center;
     color: white;
-    background: url('http://wallpapercave.com/wp/t1ZMnHR.jpg') no-repeat center center fixed; 
+    background: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiJp4iD6JrQAhXkwVQKHckrCHMQjRwIBw&url=http%3A%2F%2Fwww.beautifulworld.com%2Feurope%2Fnorway%2Faurora-borealis%2F&psig=AFQjCNFSxj5maMtWhWidH6i2HHijgq0n2g&ust=1478751287152630') no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
