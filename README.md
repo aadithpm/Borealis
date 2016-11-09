@@ -4,9 +4,9 @@ A minimal CSS framework
 ## Getting Started
 Direct Link: `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.min.css">`
 
- Material Icons (Optional): `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">` 
+CDNJS: Coming Soon
 
-https://material.io/icons/
+JSDelivr: Coming Soon
 
 ## Changelog
 11/8/16: Added custom domain
