@@ -101,6 +101,8 @@ li a:hover:not(.active) {
 .center-hero {
  text-align: center;
 }
-  
+.content2 {
+ background-color: tomato;
+}
   
   
