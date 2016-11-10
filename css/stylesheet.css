@@ -106,6 +106,9 @@ li a:hover:not(.active) {
  padding-top: 240px;
  padding-bottom: 400px;
  font-size: 25px;
+ text-align: center;
+ font-family: 'Quicksand';
+ color: white;
 }
   
   
