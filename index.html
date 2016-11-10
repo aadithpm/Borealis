@@ -15,28 +15,29 @@
     <meta http-equiv="refresh" content="60">
 <!--smooth scroll -->
     <script>
-        $('a[href="#' + $(element).attr('id') + '"]').click(function(e) {
-		    e.preventDefault();
-		    var offset = $(this.hash).offset().top + 1;
-	    	$('html, body').animate({ scrollTop: offset - options.scrollOffset }, {duration: 400, queue: false, easing: 'easeOutCubic'});
-		  });
-		});
+        $(document).ready(function(){
+  
+  $("a").on('click', function(event) {
 
-		offset.top = options.offsetTop || 0;
-		offset.right = options.offsetRight || 0;
-		offset.bottom = options.offsetBottom || 0;
-		offset.left = options.offsetLeft || 0;
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      
+      event.preventDefault();
 
-		var throttledScroll = throttle(onScroll, options.throttle || 100);
-		var readyScroll = function(){
-			$(document).ready(throttledScroll);
-		};
+      // Store hash
+      var hash = this.hash;
 
-		if (!isSpying) {
-			jWindow.on('scroll', readyScroll);
-			jWindow.on('resize', readyScroll);
-			isSpying = true;
-		}
+      
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
 
     </script>
   </head>
