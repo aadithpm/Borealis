@@ -13,7 +13,7 @@
     cursor: pointer;
     border-radius: 30px;
 }
-.button: hover{
+.button:hover{
     background: url("https://files.graphiq.com/2307/media/images/White_430113_i0.png");
     color: black;
     -webkit-transition-duration: 0.4s; /* Safari */
