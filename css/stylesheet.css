@@ -14,7 +14,8 @@
     border-radius: 30px;
 }
 .button: hover{
-    background-color: white;
+    background: url("https://files.graphiq.com/2307/media/images/White_430113_i0.png");
+    color: black;
 }
 .primary {
     background-color: white;
