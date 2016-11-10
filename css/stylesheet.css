@@ -31,8 +31,7 @@
 .hero{
  font-family: 'Quicksand', sans-serif;
     position: center;
-    color: white;
-    background: url('http://i3.wallpaperscraft.com/image/northern_lights_aurora_borealis_uk_2015_100946_3840x2160.jpg') no-repeat center center fixed; 
+    color: white; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -50,6 +49,8 @@
  font-family: Quicksand;
  color: black;
  size: 14px;
+ padding-top: 200px;
+ padding-bottom: 280px;
 }
 body {
  background: url('http://i3.wallpaperscraft.com/image/northern_lights_aurora_borealis_uk_2015_100946_3840x2160.jpg') no-repeat center center fixed; 
