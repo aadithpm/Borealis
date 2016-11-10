@@ -18,7 +18,7 @@ JSDelivr: Coming Soon
 
 11/9/16: Added Menu: Use this code
 
-`<!-- Menu + Close Btn -->
+<!-- Menu + Close Btn -->
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
   <a href="#">About</a>
@@ -28,6 +28,6 @@ JSDelivr: Coming Soon
 </div>
 
 <!–– Menu opener ––>
-<i class="material-icons" style="font-size:30px;cursor:pointer" onclick="openNav()">&#xE5D2;</i>`
+<i class="material-icons" style="font-size:30px;cursor:pointer" onclick="openNav()">&#xE5D2;</i>
 
 Made With ❤️ By Talon, Sid, and Shreyas!
