@@ -16,8 +16,8 @@
 .button:hover{
     background: url("https://files.graphiq.com/2307/media/images/White_430113_i0.png");
     color: black;
-    -webkit-transition-duration: 0.6s; /* Safari */
-    transition-duration: 0.6s;
+    -webkit-transition-duration: 0.8s; /* Safari */
+    transition-duration: 0.8s;
 }
 .primary {
     background-color: white;
