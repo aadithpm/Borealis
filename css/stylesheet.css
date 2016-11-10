@@ -98,7 +98,9 @@ li a:hover:not(.active) {
 .content a{
  text-decoration: none;
 }
-  
+.center-hero {
+ text-align: center;
+}
   
   
   
