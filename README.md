@@ -5,10 +5,6 @@ Direct Link (Full): `<link rel="stylesheet" href="https://raw.githubusercontent.
 
 Direct Link (Minified): `<link rel="stylesheet" href="https://github.com/PenetratingShot/Borealis/blob/master/distrib/borealis.min.css">`
 
-Material Icons: `<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">`
-
-https://material.io/icons/
-
 CDNJS: Coming Soon
 
 JSDelivr: Coming Soon
