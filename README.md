@@ -14,6 +14,7 @@ CDNJS: Coming Soon
 JSDelivr: Coming Soon
 
 ## Changelog
+11/10/16: Homepage Customization
 11/8/16: Added custom domain
 
 Made With ❤️ By Talon, Sid, and Shreyas!
