@@ -152,6 +152,7 @@ li a:hover:not(.active) {
  background-color: white;
  color: black;
  font-family: 'Quicksand';
+ text-align: center;
 }
 
 
