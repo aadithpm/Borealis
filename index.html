@@ -39,7 +39,10 @@
     } // End if
   });
 });
-
+      //fade out on scroll
+      $(window).scroll(function(){
+    $(".center-hero").css("opacity", 1 - $(window).scrollTop() / 250);
+  });
     </script>
   </head>
   <body>
