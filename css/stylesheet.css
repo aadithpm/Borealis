@@ -89,7 +89,9 @@ ul {
     left: 0px;
     opacity: 0.6;
 }
-
+ul:hover {
+ opacity: 1.0;
+}
 li {
     float: left;}
 
