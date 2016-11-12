@@ -91,6 +91,8 @@ ul {
 }
 ul:hover {
  opacity: 1.0;
+  -webkit-transition-duration: 0.6s; /* Safari */
+    transition-duration: 0.6s;
 }
 li {
     float: left;}
